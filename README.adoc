@@ -1,0 +1,3 @@
+= Example for gernerating mappers
+
+* support if you want to mapp your service explicitly
